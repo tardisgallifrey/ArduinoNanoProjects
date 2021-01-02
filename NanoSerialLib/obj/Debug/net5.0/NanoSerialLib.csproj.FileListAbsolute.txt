@@ -1,0 +1,12 @@
+/home/tardis1/PublishedProjects/ArduinoNanoProjects/NanoSerialLib/bin/Debug/net5.0/NanoSerialLib.deps.json
+/home/tardis1/PublishedProjects/ArduinoNanoProjects/NanoSerialLib/bin/Debug/net5.0/NanoSerialLib.dll
+/home/tardis1/PublishedProjects/ArduinoNanoProjects/NanoSerialLib/bin/Debug/net5.0/ref/NanoSerialLib.dll
+/home/tardis1/PublishedProjects/ArduinoNanoProjects/NanoSerialLib/bin/Debug/net5.0/NanoSerialLib.pdb
+/home/tardis1/PublishedProjects/ArduinoNanoProjects/NanoSerialLib/obj/Debug/net5.0/NanoSerialLib.csprojAssemblyReference.cache
+/home/tardis1/PublishedProjects/ArduinoNanoProjects/NanoSerialLib/obj/Debug/net5.0/NanoSerialLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/tardis1/PublishedProjects/ArduinoNanoProjects/NanoSerialLib/obj/Debug/net5.0/NanoSerialLib.AssemblyInfoInputs.cache
+/home/tardis1/PublishedProjects/ArduinoNanoProjects/NanoSerialLib/obj/Debug/net5.0/NanoSerialLib.AssemblyInfo.cs
+/home/tardis1/PublishedProjects/ArduinoNanoProjects/NanoSerialLib/obj/Debug/net5.0/NanoSerialLib.csproj.CoreCompileInputs.cache
+/home/tardis1/PublishedProjects/ArduinoNanoProjects/NanoSerialLib/obj/Debug/net5.0/NanoSerialLib.dll
+/home/tardis1/PublishedProjects/ArduinoNanoProjects/NanoSerialLib/obj/Debug/net5.0/ref/NanoSerialLib.dll
+/home/tardis1/PublishedProjects/ArduinoNanoProjects/NanoSerialLib/obj/Debug/net5.0/NanoSerialLib.pdb

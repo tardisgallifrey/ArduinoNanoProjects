@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "YVLf4t4lUtpbjjMqths5Zs6pS5FNt2kCA5cPkljCT/G9dN1Mjpvm9vGzy7ExLn9/JL32fZdrq07vwG8uTkWMnw==",
+  "dgSpecHash": "X4rW7dwMQOhqVZpdYFwTvfJnpCoCEIwcyI+Esm0ZUGhzzuOHQRcgnXaaNN9PEe9MzdKe7oABJ4FRuxCPBMrTFg==",
   "success": true,
   "projectFilePath": "/home/tardis1/PublishedProjects/ArduinoNanoProjects/NanoSerialConsole/NanoSerialConsole.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/tardis1/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/home/tardis1/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "/home/tardis1/.nuget/packages/runtime.linux-arm.runtime.native.system.io.ports/5.0.0-rtm.20519.4/runtime.linux-arm.runtime.native.system.io.ports.5.0.0-rtm.20519.4.nupkg.sha512",
+    "/home/tardis1/.nuget/packages/runtime.linux-arm64.runtime.native.system.io.ports/5.0.0-rtm.20519.4/runtime.linux-arm64.runtime.native.system.io.ports.5.0.0-rtm.20519.4.nupkg.sha512",
+    "/home/tardis1/.nuget/packages/runtime.linux-x64.runtime.native.system.io.ports/5.0.0-rtm.20519.4/runtime.linux-x64.runtime.native.system.io.ports.5.0.0-rtm.20519.4.nupkg.sha512",
+    "/home/tardis1/.nuget/packages/runtime.native.system.io.ports/5.0.0/runtime.native.system.io.ports.5.0.0.nupkg.sha512",
+    "/home/tardis1/.nuget/packages/runtime.osx-x64.runtime.native.system.io.ports/5.0.0-rtm.20519.4/runtime.osx-x64.runtime.native.system.io.ports.5.0.0-rtm.20519.4.nupkg.sha512",
+    "/home/tardis1/.nuget/packages/system.io.ports/5.0.0/system.io.ports.5.0.0.nupkg.sha512",
+    "/home/tardis1/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "/home/tardis1/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

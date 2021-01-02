@@ -1,4 +1,5 @@
 ﻿using System;
+using NanoSerialLib;
 
 namespace NanoSerialConsole
 {
@@ -6,7 +7,20 @@ namespace NanoSerialConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string message = "";
+            var nano = new Board(9600, "/dev/ttyUSB0");
+            
+            do
+            {
+               message = Console.ReadLine();
+               nano.Write(message);
+
+               Console.Write(nano.Read());
+
+            }while(message != "q");
+
+            nano.Close();
+
         }
     }
 }
