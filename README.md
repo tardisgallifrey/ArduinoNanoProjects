@@ -1,7 +1,7 @@
 <h1>Arduino Nano Library Projects</h1>
 
 Just got this started, but stay tuned for more.  This will be the github for 
-my Arudino Nano C# Libraries.  These will/should end up with Nuget Packages.
+my Arduino Nano C# Libraries.  These will/should end up with Nuget Packages.
 
 <hr>
 This github will build in .NET 5.0 (I know it works in Linux)  Windows users,
@@ -11,11 +11,11 @@ Quickie Use:
 
 requires: "using NanoSerialLib;"  
 
-Class object is: Board()
-Three class methods: 
-Board.Read() -- Returns a string.
-Board.Write() -- Sends a string.
-Board.Close() -- Closes arduino serial port.
+Class object is: Board()</br>
+Three class methods: </br>
+Board.Read() -- Returns a string.</br>
+Board.Write() -- Sends a string.</br>
+Board.Close() -- Closes arduino serial port.</br>
 
 var myNano = new Board(9600, "/dev/ttyxxx); "an integer for baud rate. "a string for serial port
 on your machine."
