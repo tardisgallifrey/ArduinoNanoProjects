@@ -21,16 +21,18 @@ void loop()
       if(receiveVal != "")
       {
          Serial.println(receiveVal);
-      }
       
-      if(receiveVal.toInt() == 1) 
-       {    
-          ledState = HIGH;
-       }     
-       else
-       {  
-          ledState = LOW;
-       }         
+      
+         if(receiveVal.toInt() == 1) 
+         {    
+             ledState = HIGH;
+         }     
+       
+         if(receiveVal.toInt() == 0)
+         {  
+             ledState = LOW;
+         }
+      }         
    
         
     digitalWrite(LedPin, ledState);   
